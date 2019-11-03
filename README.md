@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="" src="" />
     <br>
-    GoBarber FullStack
+    MeetApp FullStack
 </h1>
 
 <h4 align="center">
@@ -77,7 +77,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Create React App Configuration Override](https://github.com/sharegate/craco)
 - [Redux](https://redux.js.org/)
 - [Redux-Saga](https://redux-saga.js.org/)
-- [React Router v4](https://github.com/ReactTraining/react-router)
+- [React Router v5](https://github.com/ReactTraining/react-router)
 - [styled-components](https://www.styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [History](https://www.npmjs.com/package/history)
@@ -85,7 +85,6 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Polished](https://polished.js.org/)
 - [React-Toastify](https://fkhadra.github.io/react-toastify/)
 - [React-Icons](http://react-icons.github.io/react-icons/)
-- [react-perfect-scrollbar](https://github.com/OpusCapita/react-perfect-scrollbar)
 - [Unform](https://github.com/Rocketseat/unform)
 - [Yup](https://www.npmjs.com/package/yup)
 - [date-fns](https://date-fns.org/)
@@ -117,12 +116,12 @@ This project is under the MIT license.
 ## :rocket: Mobile Technologies
 
 <p align="center">
-<img alt="GoBarber Web" src="https://github.com/eltonlazzarin/meetapp/blob/master/mobile/screenshots/meetapp.png">
+<img alt="MeetApp Mobile" src="https://github.com/eltonlazzarin/meetapp/blob/master/mobile/screenshots/meetapp.png">
 </p>
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
-- [ReactJS](https://reactjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
 - [babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import)
 - [react-navigation](https://reactnavigation.org/)
 - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
@@ -134,7 +133,6 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Immer](https://github.com/immerjs/immer)
 - [date-fns](https://date-fns.org/)
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [Reactotron](https://infinite.red/reactotron)
 - [reactotron-redux](https://github.com/infinitered/reactotron-redux)
