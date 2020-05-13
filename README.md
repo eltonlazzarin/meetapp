@@ -20,7 +20,7 @@
 
 This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
-### :rocket: Backend Technologies
+## :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -67,7 +67,7 @@ This project is under the MIT license.
 
 ---
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 <img alt="Meetapp Web" src="https://github.com/eltonlazzarin/meetapp/blob/master/frontend/screenshots/meetapp.gif">
 
@@ -160,7 +160,7 @@ or
 $ react-native run-android
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/meetapp/blob/master/LICENSE) for more information.
 
